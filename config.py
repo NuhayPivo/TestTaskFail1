@@ -1,0 +1,3 @@
+TOKEN="6164685411:AAF-yIFmkHNcjxHftaBcf8gFIxeKttcyYIY"
+#6164685411:AAF-yIFmkHNcjxHftaBcf8gFIxeKttcyYIY - мой
+#5553029203:AAGGPGjziIKYw0eMGhNmcxzeyBJSrGNnffQ - изначальный 
